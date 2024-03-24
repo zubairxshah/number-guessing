@@ -1,0 +1,28 @@
+{
+  "name": "zs01-game-guess",
+  "version": "1.1.0",
+  "description": "Guess a number, if matches you win.",
+  "type": "module",
+  "bin": {
+    "zs01-game-guess": "numguess.js"
+  },
+  "main": "numguess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubarxshah/number-guessing.git"
+  },
+  "keywords": [
+    "numbers",
+    "random",
+    "numbers"
+  ],
+  "author": "Zubair Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zubarxshah/number-guessing/issues"
+  },
+  "homepage": "https://github.com/zubarxshah/number-guessing#readme"
+}
